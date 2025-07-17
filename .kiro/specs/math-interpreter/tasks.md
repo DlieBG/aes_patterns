@@ -16,14 +16,14 @@
   - Add proper error handling for undefined variables
   - _Requirements: 2.1, 2.2, 2.3, 2.4_
 
-- [ ] 4. Implement Terminal Expressions
-  - [ ] 4.1 Create Constant class
+- [x] 4. Implement Terminal Expressions
+  - [x] 4.1 Create Constant class
     - Implement interpret method to return the stored value
     - Implement string representation
     - Add support for both integer and floating-point values
     - _Requirements: 1.1, 1.2, 1.3_
   
-  - [ ] 4.2 Create Variable class
+  - [x] 4.2 Create Variable class
     - Implement interpret method to look up values in context
     - Implement proper error handling for undefined variables
     - Implement string representation
