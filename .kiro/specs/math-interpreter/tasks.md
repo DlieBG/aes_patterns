@@ -59,7 +59,7 @@
   - Test Multiplication with constants, variables, and mixed operands
   - _Requirements: 3.1, 3.2, 3.3, 4.1, 4.2, 4.3_
 
-- [ ] 9. Create integration tests for complex expressions
+- [x] 9. Create integration tests for complex expressions
   - Test expressions with both addition and multiplication
   - Test operator precedence (multiplication before addition)
   - Test expressions with parentheses and nested operations
