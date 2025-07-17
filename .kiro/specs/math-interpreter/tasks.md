@@ -65,7 +65,7 @@
   - Test expressions with parentheses and nested operations
   - _Requirements: 5.1, 5.2, 5.3, 5.4_
 
-- [ ] 10. Create example usage demonstration
+- [x] 10. Create example usage demonstration
   - Implement a simple demo script showing the interpreter in action
   - Include examples of all supported operations
   - Demonstrate variable usage and updates
