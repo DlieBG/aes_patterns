@@ -42,19 +42,19 @@
     - Support mixed operand types (constants and variables)
     - _Requirements: 4.1, 4.2, 4.3, 4.4_
 
-- [ ] 6. Implement custom exceptions
+- [x] 6. Implement custom exceptions
   - Create InterpreterError base exception
   - Implement VariableNotDefinedError for undefined variables
   - Implement InvalidExpressionError for malformed expressions
   - _Requirements: 2.3, 6.5_
 
-- [ ] 7. Create unit tests for Terminal Expressions
+- [x] 7. Create unit tests for Terminal Expressions
   - Test Constant with various numeric values
   - Test Variable with defined and undefined variables
   - Test error handling for undefined variables
   - _Requirements: 1.1, 1.2, 1.3, 2.1, 2.2, 2.3_
 
-- [ ] 8. Create unit tests for Non-Terminal Expressions
+- [x] 8. Create unit tests for Non-Terminal Expressions
   - Test Addition with constants, variables, and mixed operands
   - Test Multiplication with constants, variables, and mixed operands
   - _Requirements: 3.1, 3.2, 3.3, 4.1, 4.2, 4.3_
