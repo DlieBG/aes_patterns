@@ -5,7 +5,7 @@
   - Set up basic file organization
   - _Requirements: 6.1_
 
-- [ ] 2. Implement the Expression interface
+- [x] 2. Implement the Expression interface
   - Create the abstract base Expression class with interpret method
   - Implement string representation method
   - _Requirements: 6.1, 6.2_
