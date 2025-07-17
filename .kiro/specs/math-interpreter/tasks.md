@@ -29,14 +29,14 @@
     - Implement string representation
     - _Requirements: 2.1, 2.2, 2.3_
 
-- [ ] 5. Implement Non-Terminal Expressions
-  - [ ] 5.1 Create Addition class
+- [x] 5. Implement Non-Terminal Expressions
+  - [x] 5.1 Create Addition class
     - Implement interpret method to evaluate and sum operands
     - Implement string representation
     - Support mixed operand types (constants and variables)
     - _Requirements: 3.1, 3.2, 3.3, 3.4_
   
-  - [ ] 5.2 Create Multiplication class
+  - [x] 5.2 Create Multiplication class
     - Implement interpret method to evaluate and multiply operands
     - Implement string representation
     - Support mixed operand types (constants and variables)
